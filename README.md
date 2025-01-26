@@ -1,7 +1,7 @@
 # newstepforyou
 ## team name-spark
 ### team members
-- Rose Arub
+- Rose Arun
 - Lakshmi Krishna
 - Liya S 
 ## hosted project link
